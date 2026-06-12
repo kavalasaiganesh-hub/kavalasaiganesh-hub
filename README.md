@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sai Ganesh 👋
 
-<!--
-**kavalasaiganesh-hub/kavalasaiganesh-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 Learning:
+- Java
+- Data Structures & Algorithms
+- DBMS
+- Operating Systems
+- Data Science
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently building projects and improving my skills every day.
+
+📫 GitHub: github.com/kavalasaiganesh-hub
+
+⭐ Goal: Become a Software Engineer and Machine Learning Engineer.
